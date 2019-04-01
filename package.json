@@ -1,12 +1,12 @@
 {
-  "name": "angular-laravel-echo",
-  "version": "2.1.0",
-  "description": "A Angular service for Laravel Echo",
+  "name": "angular-laravel-echo-edge",
+  "version": "1.0.0",
+  "description": "A Angular service for Laravel Echo, branched off angular-larave-echo by Mark van Beek <mark@appelit.com>",
   "main": "./bundles/angular-laravel-echo.umd.js",
   "module": "./angular-laravel-echo.es5.js",
   "es2015": "./angular-laravel-echo.js",
   "typings": "./angular-laravel-echo.d.ts",
-  "author": "Mark van Beek <mark@appelit.com> (https://appelit.com)",
+  "author": "Ron Darby <ron.darby@edgelearningmedia.com> (www.edgelearningmedia.com)",
   "license": "MIT",
   "keywords": [
     "angular",
@@ -18,11 +18,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chancezeus/angular-laravel-echo.git"
+    "url": "git+https://github.com/edge-learning-media/angular-laravel-echo.git"
   },
-  "homepage": "https://github.com/chancezeus/angular-laravel-echo",
+  "homepage": "https://github.com/edge-learning-media/angular-laravel-echo",
   "bugs": {
-    "url": "https://github.com/chancezeus/angular-laravel-echo/issues"
+    "url": "https://github.com/edge-learning-media/angular-laravel-echo/issues"
   },
   "engines": {
     "node": ">= 6.9.0",

@@ -1,7 +1,7 @@
 import {Inject, Injectable, InjectionToken, NgZone} from '@angular/core';
 import {Observable, of, ReplaySubject, Subject, throwError} from 'rxjs';
 import {distinctUntilChanged, map, shareReplay, startWith} from 'rxjs/operators';
-import Echo from 'laravel-echo';
+import * as Echo from 'laravel-echo';
 import * as io from 'socket.io-client';
 
 /**
